@@ -61,3 +61,4 @@ type: web
 repo: fluidd-core/fluidd
 path: ~/fluidd
 ```
+[simplyprint]
